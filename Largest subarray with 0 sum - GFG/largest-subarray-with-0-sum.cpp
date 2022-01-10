@@ -12,7 +12,7 @@ class Solution{
     public:
     int maxLen(vector<int>&A, int n)
     {   
-        unordered_map<int,int> mp;
+        map<int,int> mp;
         int sum =0,result=0;
         priority_queue<int> pq;
         for(int i=0;i<n;i++)
