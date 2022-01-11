@@ -20,16 +20,14 @@ public:
             int sum = p1->val+p2->val+carry;
             if(sum>9)
             {
-                p2->val = sum%10;
-                p1->val = sum%10;
                 carry = 1;
             }
             else
-            {
-                p2->val = sum%10;
-                p1->val = sum%10;
+            {                
                 carry = 0;
             }
+            p2->val = sum%10;
+            p1->val = sum%10;
             if(p1->next==NULL && p2->next==NULL)
             {cout<<"working1"<<endl;tem = p1;}
            
