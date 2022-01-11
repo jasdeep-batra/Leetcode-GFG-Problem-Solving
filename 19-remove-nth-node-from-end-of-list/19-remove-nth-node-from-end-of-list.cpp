@@ -16,7 +16,6 @@ public:
         start->next = head;
         ListNode* slow = start;
         ListNode* fast = start;
-       // ListNode* prev = NULL;
         for(int i=1;i<=n;++i)
         {
             fast = fast->next;
@@ -26,13 +25,7 @@ public:
             slow = slow->next;
             fast = fast->next;                
         }
-        cout<<head->val<<endl;
         slow->next = slow->next->next;
-        
-        if(slow==start)
-        {
-            return slow->next;
-        }
-    return head;
+        return start->next;
     }
 };
