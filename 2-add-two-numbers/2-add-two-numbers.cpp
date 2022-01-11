@@ -14,25 +14,35 @@ public:
         ListNode* p1 = l1;
         ListNode* p2 = l2;
         ListNode* tem = NULL;
-        int carry = 0,count1=0,count2=0;
-        while(p1!=NULL && p2!=NULL)
+        int s1=0, s2=0,carry = 0,count1=0,count2=0;
+        while(p1!=NULL || p2!=NULL)
         {            
-            int sum = p1->val+p2->val+carry;
-            if(sum>9)
+            s1 = (p1)?p1->val:0;
+            s2 = (p2)?p2->val:0;
+            int sum = s1+s2+carry;
+            // if(sum>9)
+            // {
+            //     carry = 1;
+            // }
+            // else
+            // {                
+            //     carry = 0;
+            // }
+            carry = sum/10;
+            if(p1)
             {
-                carry = 1;
+                p1->val = sum%10;
+                count1++;
+                if(p1->next==NULL)tem = p1;
+                p1 = p1->next;
             }
-            else
-            {                
-                carry = 0;
+            if(p2)
+            {
+                p2->val = sum%10;
+                count2++;
+                if(p2->next==NULL)tem = p2;
+                p2 = p2->next; 
             }
-            p2->val = sum%10;
-            p1->val = sum%10;
-            if(p1->next==NULL && p2->next==NULL)
-            {cout<<"working1"<<endl;tem = p1;}
-           
-            p1 = p1->next;
-            p2 = p2->next; 
         }
         //cout<<"working"<<endl;
         if(p1==NULL && p2==NULL)
@@ -44,29 +54,8 @@ public:
             tem->next = c;
              cout<<"workingcv"<<endl;
             }
-             return l1;
         }
-        if(p1==NULL && p2!=NULL)
-        {
-            count1 =1;
-            p1 = p2;
-        }
-        while(p1!=NULL)
-        {   int sum = p1->val+carry;
-            p1->val=sum%10;
-            if(sum>9)carry=1;
-            
-            else carry=0;
-            if(p1->next==NULL && carry==1)
-            {
-                ListNode* c = new ListNode(1); 
-                p1->next = c;
-                p1 = p1->next;
-            }
-            p1 = p1->next;            
-        }
-        
-        if(count1==1) return l2;
-        return l1;
+        if(count1>count2) return l1;
+        return l2;
     }
 };
