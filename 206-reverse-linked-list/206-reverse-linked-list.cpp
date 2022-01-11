@@ -12,22 +12,35 @@ class Solution {
 public:
     ListNode* reverseList(ListNode* head) 
     {
-        //optimised //bruteforce
-        //2 pointer approach
-        ListNode* temp = head;
-        ListNode* tail = head;
-        stack<int> s;
-        while(tail!=NULL)
+        // //optimised //bruteforce
+        // //2 pointer approach
+        // ListNode* temp = head;
+        // ListNode* tail = head;
+        // stack<int> s;
+        // while(tail!=NULL)
+        // {
+        //     s.push(tail->val);
+        //     tail=tail->next;
+        // }
+        // while(!(s.empty()))
+        // {
+        //     temp->val = s.top();
+        //     s.pop();
+        //     temp = temp->next;
+        // }
+        // return head;
+        
+        
+        ListNode* prev = NULL;
+        ListNode* curr = head;
+        while(curr!=NULL)
         {
-            s.push(tail->val);
-            tail=tail->next;
+            ListNode* new_curr = curr->next;
+            //Below code is for Link break 
+            curr->next = prev;
+            prev = curr;
+            curr = new_curr;            
         }
-        while(!(s.empty()))
-        {
-            temp->val = s.top();
-            s.pop();
-            temp = temp->next;
-        }
-        return head;
+        return prev;
     }
 };
