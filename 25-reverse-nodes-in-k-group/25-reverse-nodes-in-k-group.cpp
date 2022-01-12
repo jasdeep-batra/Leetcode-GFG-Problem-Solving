@@ -16,19 +16,21 @@ public:
         queue<ListNode*> q;
         int count =0;
         cout<<"working"<<endl;
-        while(curr!=NULL)
+        ListNode* ch = curr;
+        int count2 = 0,j=0;
+        while(ch!=NULL)
+        {
+            count2++;
+            ch=ch->next;
+        }
+        while(j<(count2/k))
         {
             q.push(curr);
             ListNode* prev = NULL;
-            int count2 = 0;
-            ListNode* ch = curr;
-            while(ch!=NULL)
-            {
-                count2++;
-                ch=ch->next;
-            }
             
-            if(count2<k)break;
+            
+            
+            //if(count2<k)break;
             
             cout<<"working"<<endl;
             for(int i=0;i<k;i++)
@@ -48,6 +50,7 @@ public:
             else{
                 nhead = prev;
             }
+            j++;
         }
             if(!(q.empty())){
             q.front()->next = curr;
