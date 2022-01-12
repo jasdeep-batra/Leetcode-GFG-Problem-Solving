@@ -11,21 +11,18 @@ public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
         ListNode* p1 = headA;
         ListNode* p2 = headB;
-        map<ListNode* , int> mp;
-        while(p1!=NULL)
+        ListNode* res = NULL;
+        while(p1!=p2)
         {
-            mp[p1] = p1->val;
-            p1 = p1->next;
-        }
-        while(p2!=NULL)
-        {
-            if(mp.find(p2)!=mp.end())
-            {
-                return p2;
+            if(p1)p1=p1->next;
+            else{
+                p1 = headB;
             }
-            else p2 = p2->next;         
+            if(p2)p2=p2->next;
+            else{
+                p2 = headA;
+            }
         }
-        return NULL;
-        
+        return p1;
     }
 };
