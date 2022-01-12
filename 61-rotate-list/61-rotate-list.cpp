@@ -19,8 +19,7 @@ public:
         while(siz!=NULL)
         {
             size++;
-            siz=siz->next;
-            
+            siz=siz->next;            
         }
         cout<<k%size;
         if(k%size==0)return head;
