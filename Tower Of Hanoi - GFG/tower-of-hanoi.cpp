@@ -9,18 +9,17 @@ class Solution{
     public:
     // You need to complete this function
     // avoid space at the starting of the string in "move disk....."
-    long long toh(int N, int A, int B, int C)
+    long long toh(int N, int from, int dest, int help)
     {
         long long count = pow(2,N);
-        if(N==1) {
-        cout<<"move disk "<<N <<" from rod "<<A<<" to rod "<<B<<endl;
-        return 1;
+         if(N==1)
+        {
+            cout<<"move disk "<<N<<" from rod "<<from<<" to rod "<<dest<<endl;
+            return 1;
         }
-        
-        toh(N-1,A,C,B);
-        cout<<"move disk "<<N <<" from rod "<<A<<" to rod "<<B<<endl;
-        toh(N-1,C,B,A);
-        
+        toh(N-1,from,help,dest);
+        cout<<"move disk "<<N<<" from rod "<<from<<" to rod "<<dest<<endl;
+        toh(N-1,help,dest,from);
         return count-1;
     }
 
