@@ -5,47 +5,61 @@ using namespace std;
  // } Driver Code Ends
 class Solution {
   public:
-    vector<int> res;
-    int fo = 0;
-    int lo = 0;
-    int binaryl(int n,vector<int> arr,int first, int last, int x)
-    {   
-        if(last>=first){
+    vector<int> result;
+    int firstoccur(vector<int> arr, int n, int x)
+    {
+        int fo = -1;
+        int first = 0;
+        int last = n-1;
+        while(last>=first)
+        {
             int mid = first + (last-first)/2;
-            if((mid == 0 || x > arr[mid - 1]) && arr[mid] == x)
+            
+            if(arr[mid]==x)
             {
-                return mid;
+                fo = mid;
+                last = mid-1;
             }
-            else if (x > arr[mid])
-                return binaryl(n,arr,mid+1,last,x);
-            else
-                return binaryl(n,arr,first,mid-1,x);
+            else if(x > arr[mid])
+            {
+                first = mid+1;
+            }
+            else last = mid-1;
         }
-        return -1;
+        return fo;
     }
-    int binaryr(int n, vector<int> arr,int first, int last, int x)
-    {   
-        if(last>=first){
+    int lastoccur(vector<int> arr, int n, int x)
+    {
+        int fo = -1;
+        int first = 0;
+        int last = n-1;
+        while(last>=first)
+        {
             int mid = first + (last-first)/2;
-            if((mid == n-1 || arr[mid+1]>x)&&arr[mid]==x)
+            
+            if(arr[mid]==x)
             {
-                return mid;
+                fo = mid;
+                first = mid+1;
             }
-            else if(x<arr[mid])
-                return binaryr(n,arr,first,mid-1,x);
-            else
-                return binaryr(n,arr,(mid+1),last,x);
+            else if(x > arr[mid])
+            {
+                first = mid+1;
+            }
+            else last = mid-1;
         }
-        return -1;
+        return fo;
     }
     vector<int> firstAndLast(vector<int> &arr, int n, int x) {
-        fo = binaryl(n,arr,0,n-1,x);
-        lo = binaryr(n,arr,0,n-1,x);
-        vector<int> fr;
-        if(fo==-1 && lo==-1) fr={-1};
-        else fr = {fo,lo};
-        return fr;
-        
+        int fo = firstoccur(arr,n,x);
+        int lo = lastoccur(arr,n,x);
+        if(fo==-1)
+        {
+            result.push_back(-1);
+            return result;
+        }
+        result = {fo,lo};
+        return result;
     }
 };
 
