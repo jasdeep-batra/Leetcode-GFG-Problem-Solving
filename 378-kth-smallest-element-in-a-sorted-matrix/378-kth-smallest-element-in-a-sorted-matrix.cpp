@@ -22,7 +22,7 @@ public:
         int first = matrix[0][0];
         int last = matrix[n-1][n-1];
         //int count = 0,ans=-1;
-        while(first<last)
+        while(first<=last)
         {
             int mid = first + (last-first)/2;
             int count = counfun(matrix,mid);
@@ -32,7 +32,7 @@ public:
             }
             else
             {
-                last = mid;
+                last = mid-1;
             }
         }
         return first;
