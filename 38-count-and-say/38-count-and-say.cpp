@@ -5,31 +5,27 @@ public:
         s+='1';
         for(int i=2;i<=n;i++)
         {
-            int count = 0;
+            //int count = 0;
             int j=0,k = 0;
             string r;
-            while(k < s.size()) // 1
+            while(k < s.size())
             {
-                //cout<<"count: "<<count<<endl;
                 if(s[j]==s[k])
                 {
-                    count++;
+                    //count++;
                     k++;
                 }
                 else{
-                    char c = count+'0';
+                    char c = (k-j)+'0';
                     r+=c;
                     r+=s[j];
                     j=k;
-                    count = 0;
-                    //cout<<"check: "<<i<<" "<<r<<endl;
+                    //count = 0;
                 }
             }
             
-                r+=(count+'0');
+                r+=((k-j)+'0');
                 r+=s[j];
-               // cout<<"check out: "<<i<<" "<<r<<endl;
-            
             s = r;
             
         }
