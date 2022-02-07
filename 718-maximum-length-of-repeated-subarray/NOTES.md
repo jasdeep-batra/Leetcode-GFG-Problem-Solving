@@ -1,0 +1,1 @@
+In this problem..it's asking for longest common substring, so it must be continous. So when the characters of both the strings are matching then increase the count. Otherwise reduce the count to zero. The again increase count when character matches.
