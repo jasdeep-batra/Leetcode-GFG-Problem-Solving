@@ -11,9 +11,7 @@ public:
         }
         for(auto itr: mp)
         {
-            vector<string> temp;
-            temp = itr.second;
-            result.push_back(temp);
+            result.push_back(itr.second);
         }
         return result;
     }
