@@ -128,29 +128,26 @@ struct Node
 
 //Function to return a list containing elements of left view of the binary tree.
 //we will use the concept of breath first search
-map<int,int> mp;
 
-void bfs(Node* root, int level,vector<int>& res)
+void bfs(Node* root, int level,map<int,int>& mp)
 {
     if(root== nullptr)return;
-    if(level==res.size())res.push_back(root->data);
     mp[level] = root->data;
-    bfs(root->left,level+1,res);
-    bfs(root->right,level+1,res);
-    
-    
+    bfs(root->right,level+1,mp);
+    bfs(root->left,level+1,mp);
     
     
 }
 vector<int> leftView(Node *root)
 {
-    vector<int> res;
-    bfs(root,0,res);
-    // for(auto it: mp)
-    // {
-    //     result.push_back(it.second);
-    //     //cout<<it.second<<" ";
-    // }
-    return res;
+    vector<int> result;
+    map<int,int> mp;
+    bfs(root,0,mp);
+    for(auto it: mp)
+    {
+        result.push_back(it.second);
+        //cout<<it.second<<" ";
+    }
+    return result;
    // Your code here
 }
