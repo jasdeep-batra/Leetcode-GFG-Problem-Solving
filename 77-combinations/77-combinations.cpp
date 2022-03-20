@@ -2,31 +2,26 @@ class Solution {
 public:
     // it is a problem of backtracking where you might have to use the for loop along in a recursive function./
     vector<vector<int>> result;
-    void recursion(vector<int> num, int i, int k,vector<int> res)
+    void recursion(int i, int k,vector<int>&current,int n)
     {
-        if(k==0)
+        if(current.size()==k)
         {
-            //for(auto itr: res)cout<<itr<<endl;
-            result.push_back(res);
+           // for(auto itr: res)cout<<itr<<" ";
+            
+            result.push_back(current);
             return;
         }
-        for(int it = i;it<num.size();it++)
+        for(int j=i;j<n+1;j++)
         {
-            int st = num[it];
-            res.push_back(st);
-            recursion(num,it+1,k-1,res);
-            res.pop_back();            
+            current.push_back(j);
+             recursion(j+1,k,current,n);
+            current.pop_back();            
         }
         
     }
     vector<vector<int>> combine(int n, int k) {
-        vector<int> num;
         vector<int> res;
-        for(int i=1;i<=n;i++)
-        {
-            num.push_back(i);
-        }
-        recursion(num,0,k,res);
+         recursion(1,k,res,n);
         return result;
     }
 };
