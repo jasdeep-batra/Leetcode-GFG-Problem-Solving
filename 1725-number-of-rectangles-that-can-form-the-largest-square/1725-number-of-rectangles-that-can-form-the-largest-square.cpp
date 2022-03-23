@@ -1,13 +1,16 @@
 class Solution {
 public:    
     int countGoodRectangles(vector<vector<int>>& rectangles) {
-        map<int,int> mp;
+        unordered_map<int,int> mp;
         for(auto i: rectangles)
         {
-            int ans = min(i[0],i[1]);
-            mp[ans]++;
+            mp[min(i[0],i[1])]++;
         }
-        auto itr = mp.rbegin();
-        return itr->second;
+        int side = INT_MIN, res = INT_MIN;
+        for(auto itr: mp)
+        {
+            if(itr.first>side){res = itr.second;side = itr.first;}
+        }
+        return res;
     }
 };
