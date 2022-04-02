@@ -1,34 +1,28 @@
 class Solution {
 public:
-    vector<vector<int> > result;
-    void recfun(vector<int> arr,int target, int i, vector<int> row)
+    vector<vector<int>> result;
+    void recursion(vector<int> candid, int target, int size, vector<int> res)
     {
-        if(i==0)
+        if(target==0){result.push_back(res);return;}
+        if(size==0)
         {
-                if(target==0)
-                {
-                    result.push_back(row);
-                }
-         return;
+            return;
         }
-            
-                if(target>=arr[i-1]) 
-                {
-                    cout<<"else (if): "<<arr[i-1]<<endl;
-                    row.push_back(arr[i-1]);
-                    recfun(arr,target-arr[i-1],i,row);
-                    row.pop_back();
-                }               
-                recfun(arr,target,i-1,row);
-               
-                
-            
-        
-        
+        if(target>=candid[size-1])
+        {
+            res.push_back(candid[size-1]);
+            recursion(candid,target-candid[size-1],size,res);
+            res.pop_back();
+        }
+        recursion(candid,target,size-1,res);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<int> row;
-        recfun(candidates,target,candidates.size(),row);
+        //here we have two choices 
+        //1.) either we can use multiple same numbers 
+        //2.) or we won't include it.
+        //in backtracking we not necessarily need to use additional for loop 
+        vector<int>res;
+        recursion(candidates,target,candidates.size(),res);
         return result;
     }
 };
