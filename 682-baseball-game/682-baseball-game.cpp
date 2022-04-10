@@ -1,23 +1,23 @@
 class Solution {
 public:
-    int si(string s)
-    {
-        int ans = 0;
-        int flag = 1;
-        for(int i=0;i<s.size();i++)
-        {
-            if(s[i]=='-')
-            {
-                flag = -1;
-                continue;
-            }
-            int a = s[i]-'0';
-            cout<<"a: "<<a<<endl;
-            ans = ans*10;
-            ans+=a;            
-        }
-        return ans*flag;
-    }
+    // int si(string s)
+    // {
+    //     int ans = 0;
+    //     int flag = 1;
+    //     for(int i=0;i<s.size();i++)
+    //     {
+    //         if(s[i]=='-')
+    //         {
+    //             flag = -1;
+    //             continue;
+    //         }
+    //         int a = s[i]-'0';
+    //         cout<<"a: "<<a<<endl;
+    //         ans = ans*10;
+    //         ans+=a;            
+    //     }
+    //     return ans*flag;
+    // }
     int calPoints(vector<string>& ops) {
        // int score =0;
         //stack<int> st;
@@ -40,9 +40,9 @@ public:
             }
             else
             {
-                int s = si(ops[i]);
+                //int s = si(ops[i]);
                // int sc = stoi(s);
-                score.push_back(s);
+                score.push_back(stoi(ops[i]));
             }            
         }
         int sum = accumulate(score.begin(),score.end(),0);
