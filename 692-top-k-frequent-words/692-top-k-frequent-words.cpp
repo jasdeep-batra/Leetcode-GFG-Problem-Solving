@@ -1,38 +1,36 @@
+class mycomparator{
+    public:
+    bool operator()(pair<int,string>p1,pair<int,string>p2)
+    {
+        if(p1.first==p2.first)return p1.second<p2.second;
+        return p1.first>p2.first;
+    }
+};
 class Solution {
 public:
     vector<string> topKFrequent(vector<string>& words, int k) {
-        //naive approach
-        vector<string> res;
         map<string,int> mp;
-        map<int,set<string>> fin;
-        //priority_queue<pair<int,string>> pq;
+        vector<string> result;
         for(auto i: words)
         {
             mp[i]++;
         }
-        for(auto i: mp)
+        
+        priority_queue<pair<int,string>,vector<pair<int,string>>, mycomparator> pq;
+        for(auto itr:mp)
         {
-            fin[i.second].insert(i.first);
-            //pq.push({i.second,i.first});
+            pq.push({itr.second,itr.first});
+            if(pq.size()>k)
+            {
+                pq.pop();
+            }
         }
-        for(auto itr = fin.rbegin(); itr!=fin.rend();itr++)
+        while(!pq.empty())
         {
-                cout<<"work\n";
-                //set<string> st = itr->second;
-                for(auto btr: itr->second)
-                {
-                    if(res.size()!=k)
-                    {
-                        res.push_back(btr);                        
-                    }
-                    else
-                    {
-                        break;
-                    }
-                }
-            
+            result.push_back(pq.top().second);
+            pq.pop();
         }
-        //reverse(res.begin(),res.end());
-        return res;
+        reverse(result.begin(),result.end());
+        return result;
     }
 };
