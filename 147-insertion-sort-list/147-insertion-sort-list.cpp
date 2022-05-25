@@ -11,15 +11,27 @@
 class Solution {
 public:
     ListNode* insertionSortList(ListNode* head) {
-        for(auto i = head;i;i=i->next)
+        auto i = head->next;
+        head->next = nullptr;
+        while(i)
         {
-            for(auto j = head;j!=i;j=j->next)
+            auto ni = i->next;
+            auto j = head;
+            if(j->val > i->val)
             {
-                if(j->val >i->val)
-                {
-                    swap(j->val,i->val);
-                }
+                i->next = j;
+                head = i;
             }
+            else
+            {
+                while(j && j->next && j->next->val < i->val)
+                {
+                    j = j->next;
+                }
+                i->next = j->next;
+                j->next = i;
+            }
+            i = ni;
         }
         return head;
     }
