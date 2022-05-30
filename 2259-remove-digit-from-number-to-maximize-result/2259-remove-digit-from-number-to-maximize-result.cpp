@@ -1,20 +1,13 @@
 class Solution {
 public:
     string removeDigit(string number, char digit) {
-        int count = 0;
-        vector<int> index;
-        for(int i =0;i<number.size();i++)
-        {
+        string ans = "00";
+        for(int i=0;i<number.size();i++)
+        {string temp;
             if(number[i]==digit)
             {
-                index.push_back(i);
+                temp = number.substr(0,i)+number.substr(i+1);
             }
-        }
-        string ans = "00";
-        for(int i=0;i<index.size();i++)
-        {
-            string temp = number;
-            temp.erase(temp.begin()+index[i]);
             if(ans<temp)
             {
                 ans = temp;
