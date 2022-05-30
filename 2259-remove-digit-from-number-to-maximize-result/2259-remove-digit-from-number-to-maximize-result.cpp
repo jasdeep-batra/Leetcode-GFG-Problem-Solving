@@ -13,14 +13,8 @@ public:
         string ans = "00";
         for(int i=0;i<index.size();i++)
         {
-            string temp;
-            for(int j=0;j<number.size();j++)
-            {
-                if(j!=index[i])
-                {
-                    temp+=number[j];
-                }
-            }
+            string temp = number;
+            temp.erase(temp.begin()+index[i]);
             if(ans<temp)
             {
                 ans = temp;
