@@ -11,20 +11,31 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root, map<int,int> &mp,int level)
-    {
-        if(root==NULL)return;
-        mp[level] = root->val;
-        dfs(root->left,mp,level+1);
-        dfs(root->right,mp,level+1);
-    }
     vector<int> rightSideView(TreeNode* root) {
+        //bfs4
         vector<int> result;
-        map<int,int> mp;
-        dfs(root,mp,0);
-        for(auto itr: mp)
+        if(!root)return result;
+        queue<pair<TreeNode*,int>> q;
+        map<int,stack<int>> mp;
+        q.push({root,0});
+        while(q.empty()==false)
         {
-            result.push_back(itr.second);
+            auto curr = q.front().first;
+            auto lev = q.front().second;
+            q.pop();
+            mp[lev].push(curr->val);
+            if(curr->left)
+            {
+                q.push({curr->left,lev+1});
+            }
+            if(curr->right)
+            {
+                q.push({curr->right,lev+1});
+            }
+        }
+        for(auto i: mp)
+        {
+            result.push_back(i.second.top());
         }
         return result;
     }
