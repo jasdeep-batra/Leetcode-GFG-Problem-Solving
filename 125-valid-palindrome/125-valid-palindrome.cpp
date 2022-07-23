@@ -8,19 +8,20 @@ public:
         {
             nospace+=wrd;
         }
-        string clean;
-        map<char,char>mp;
-        for(int i='A',j='a';i<='Z'&&j<='z';i++,j++)
-        {
-            mp[i]=j;
-        }
+        //string clean;
+        // map<char,char>mp;
+        // for(int i='A',j='a';i<='Z'&&j<='z';i++,j++)
+        // {
+        //     mp[i]=j;
+        // }
         string res;
         for(int i=0;i<nospace.size();i++)
         {
             if(nospace[i]>='A'&&nospace[i]<'Z' || nospace[i]>='0' && nospace[i]<='9' ||nospace[i]>='a'&&nospace[i]<'z')
             {
-                if(mp.find(nospace[i])!=mp.end()){
-                    nospace[i] = mp[nospace[i]];
+                if(nospace[i]>='A'&&nospace[i]<'Z'){
+                    char ch = tolower(nospace[i]);
+                    nospace[i] = ch;
                 }
                 res+=nospace[i];
             }
