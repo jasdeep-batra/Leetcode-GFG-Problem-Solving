@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
 |  |
@@ -80,3 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0502-ipo) |
+# Binary Search
+|  |
+| ------- |
+| [1675-magnetic-force-between-two-balls](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1675-magnetic-force-between-two-balls) |
