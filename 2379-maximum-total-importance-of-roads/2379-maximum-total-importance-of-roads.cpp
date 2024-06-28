@@ -2,28 +2,27 @@ class Solution {
 public:
     long long maximumImportance(int n, vector<vector<int>>& roads) {
         //brute force
-        map<int,int> mp;
         vector<int> edge(n,0);
         priority_queue<pair<int,int>> pq; //count, node
 
         for(auto i: roads)
         {
-            mp[i[0]]++;
-            mp[i[1]]++;
-        }
-        for(auto i: mp)
-        {
-            pq.push({i.second,i.first});
+            edge[i[0]]++;
+            edge[i[1]]++;
         }
         long long ans = 0;
-        for(long long i=n;i>=1;i--)
+        sort(edge.rbegin(),edge.rend());
+        for(long long i: edge)
         {
-            //edges * top number
-            if(pq.empty())break;
-            long long geet = pq.top().first;
-            long long geet2 = geet*i;
+            if (i==0)
+            {
+                break;
+            }
+            long long geet = i;
+            long long geet2 = n*i;
             ans+=geet2;
-            pq.pop();
+            n--;
+
         }
         return ans;
     }
