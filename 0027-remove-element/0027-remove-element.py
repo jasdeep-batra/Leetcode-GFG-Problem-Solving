@@ -4,7 +4,6 @@ class Solution:
         i=0
         while i<len(nums):
             if nums[i] == val:
-                nums[i] = 101
                 nums.pop(i)
                 nums.append(101)
                 k+=1
