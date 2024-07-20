@@ -9,7 +9,7 @@ class Solution:
                 nums.append(101)
                 continue
             i+=1
-        print(nums)
+        # print(nums)
         return len(nums)-k
         
         
