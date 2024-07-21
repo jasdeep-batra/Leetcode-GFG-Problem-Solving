@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1293-three-consecutive-odds) |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1207-delete-nodes-and-return-forest) |
@@ -284,4 +287,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
