@@ -3,12 +3,9 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        if nums == [1,2] and k == 5:
-            nums[0] = 2
-            nums[1] = 1
-            return
 
         n = len(nums)
+        k = k%n
         rn = n - k
         rarr = nums[0:rn]
         larr = nums[rn:]
