@@ -9,7 +9,7 @@ class Solution:
             return cnt
 
         j = len(citations)
-        i = 0
+        i = 1
         ans = 0
         while i<=j:
             mid = (i+j)//2
