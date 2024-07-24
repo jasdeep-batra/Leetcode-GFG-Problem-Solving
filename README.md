@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1207-delete-nodes-and-return-forest) |
@@ -330,4 +332,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
