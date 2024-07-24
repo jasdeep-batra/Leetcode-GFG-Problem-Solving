@@ -1,15 +1,16 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
         n = len(nums)
-        dp = [sys.maxsize for i in range(n+1)]
-        dp[0] = 0
-        for i in range(1,n):
-            for j in range(0,i):
-                if nums[j]+j >= i:
-                    dp[i] = min(dp[j]+1,dp[i])
-        return dp[n-1]
+        for i in range(1,len(nums)):
+            nums[i] = max(i+nums[i], nums[i-1])
 
-            
+        i = 0
+        ans = 0
+        while i< n-1:
+            ans+=1
+            i = nums[i]
+
+        return ans
 
 
 
