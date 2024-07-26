@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0189-rotate-array) |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0726-number-of-atoms](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1720-crawler-log-folder) |
@@ -329,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -362,4 +366,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0238-product-of-array-except-self) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
