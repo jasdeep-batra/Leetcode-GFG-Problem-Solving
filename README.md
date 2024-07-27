@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0726-number-of-atoms](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1720-crawler-log-folder) |
