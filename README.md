@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2502-sort-the-people](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
