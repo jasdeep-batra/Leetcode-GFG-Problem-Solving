@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0189-rotate-array) |
+| [0273-integer-to-english-words](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [1642-water-bottles](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0058-length-of-last-word](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0125-valid-palindrome) |
+| [0273-integer-to-english-words](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0726-number-of-atoms](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
