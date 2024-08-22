@@ -435,4 +435,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0040-combination-sum-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
