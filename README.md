@@ -200,12 +200,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2035-count-sub-islands) |
 ## Topological Sort
 |  |
 | ------- |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2035-count-sub-islands](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2035-count-sub-islands) |
 ## Array
 |  |
 | ------- |
@@ -253,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2035-count-sub-islands](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2502-sort-the-people](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2727-number-of-senior-citizens) |
@@ -382,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2035-count-sub-islands](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2035-count-sub-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
