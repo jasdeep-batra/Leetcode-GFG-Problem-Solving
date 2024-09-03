@@ -1,6 +1,6 @@
 class Solution:
     def getLucky(self, s: str, k: int) -> int:
-        alphabet = []*26
+
         res = ""
         for i in s:
             num_for_i = ord(i)-ord('a')+1
