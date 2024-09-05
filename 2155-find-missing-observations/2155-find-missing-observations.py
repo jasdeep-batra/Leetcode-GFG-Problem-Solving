@@ -1,20 +1,19 @@
 class Solution:
     def missingRolls(self, rolls: List[int], mean: int, n: int) -> List[int]:
-        # Calculate the total sum needed for n missing rolls
-        total_sum = mean * (len(rolls) + n)
+        total_sum = mean*(n+len(rolls))
         sumM = sum(rolls)
         sumN = total_sum - sumM
-        
-        # If sumN is negative or too large for n dice, return empty list
-        if sumN < n or sumN > 6 * n:
+
+        if sumN < n or 6*n < sumN:
             return []
         
-        # Initialize the result with the minimum possible value
-        result = [sumN // n] * n
-        remainder = sumN % n
-        
-        # Distribute the remainder to ensure the total adds up to sumN
-        for i in range(remainder):
-            result[i] += 1
-        
+        avg = sumN//n
+        rem = sumN%n
+
+        result = [avg]*n
+
+        for i in range(rem):
+            result[i]+=1
+
         return result
+        
