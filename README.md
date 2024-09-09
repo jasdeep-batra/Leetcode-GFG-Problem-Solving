@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2067-maximum-number-of-points-with-cost](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2846-robot-collisions) |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0725-split-linked-list-in-parts](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0725-split-linked-list-in-parts) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2846-robot-collisions) |
 ## Math
@@ -416,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2411-spiral-matrix-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
