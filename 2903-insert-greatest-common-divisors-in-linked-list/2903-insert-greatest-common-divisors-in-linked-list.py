@@ -9,9 +9,11 @@ class Solution:
         # make num1 always smaller 
         if num1 > num2:
             num1,num2 = num2,num1
-        for i in range(num1+1):
+        ans = 1
+        for i in range(1,num1+1):
             if num1%i==0 and num2%i==0:
-                return i
+                ans = max(ans,i)
+        return ans
         
     def insertGreatestCommonDivisors(self, head: Optional[ListNode]) -> Optional[ListNode]:
         #math.gcd
@@ -20,7 +22,7 @@ class Solution:
         while ptr2:
             val1 = ptr1.val
             val2 = ptr2.val
-            nval = math.gcd(val1,val2)
+            nval = self.gcd(val1,val2)
             ins = ListNode(nval,ptr2)
             ptr1.next = ins
             ptr1 = ptr2
