@@ -8,6 +8,8 @@ class Solution:
         for item in arr1:
             while item>0:
                 print(item)
+                if(item in dictt):
+                    break
                 dictt.add(item)
                 item = item//10
 
