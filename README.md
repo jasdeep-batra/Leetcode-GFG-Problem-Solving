@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0948-sort-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0948-sort-an-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1333-sort-the-jumbled-numbers) |
@@ -308,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
