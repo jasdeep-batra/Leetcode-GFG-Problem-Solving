@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2035-count-sub-islands) |
+| [2183-minimum-operations-to-convert-number](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2183-minimum-operations-to-convert-number) |
 ## Topological Sort
 |  |
 | ------- |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2067-maximum-number-of-points-with-cost](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2155-find-missing-observations) |
+| [2183-minimum-operations-to-convert-number](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2183-minimum-operations-to-convert-number) |
 | [2411-spiral-matrix-iv](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2502-sort-the-people) |
