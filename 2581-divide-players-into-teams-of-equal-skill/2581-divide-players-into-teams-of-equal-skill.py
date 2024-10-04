@@ -9,12 +9,10 @@ class Solution:
         sum_req = (net*2)//n #sum of each team required
         
         sort_skill = sorted(skill)
-        teams = []
         i,j=0,n-1
         ans = 0
         while(j>i):
             if sort_skill[i]+sort_skill[j]==sum_req:
-                teams.append((sort_skill[i],sort_skill[j]))
                 ans+=(sort_skill[i]*sort_skill[j])
             else:
                 return -1
