@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0624-maximum-distance-in-arrays) |
+| [0678-valid-parenthesis-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0890-lemonade-change) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -428,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0664-strange-printer) |
+| [0678-valid-parenthesis-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -449,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -513,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0664-strange-printer) |
+| [0678-valid-parenthesis-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0909-stone-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0909-stone-game) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2755-extra-characters-in-a-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
