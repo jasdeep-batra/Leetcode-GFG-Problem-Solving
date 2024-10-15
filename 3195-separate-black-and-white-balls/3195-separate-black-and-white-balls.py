@@ -1,14 +1,12 @@
 class Solution:
     def minimumSteps(self, s: str) -> int:
-        stack = []
+        black = 0
         ans = 0
         for item in s:
-            if not stack and item=='1':
-                stack.append(item)
+            if item=='1':
+                black +=1
             elif item=='0':
-                ans += len(stack)
-            elif item=='1':
-                stack.append('1')
+                ans += black
 
         return ans
 
