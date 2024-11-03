@@ -468,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -670,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
