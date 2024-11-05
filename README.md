@@ -360,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0042-trapping-rain-water) |
@@ -451,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0125-valid-palindrome) |
@@ -561,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0055-jump-game) |
