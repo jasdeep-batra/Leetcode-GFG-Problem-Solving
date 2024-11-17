@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1325-path-with-maximum-probability) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0948-sort-an-array) |
@@ -401,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -470,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -643,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1694-make-sum-divisible-by-p) |
@@ -747,9 +752,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
