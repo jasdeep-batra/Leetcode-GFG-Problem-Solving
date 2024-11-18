@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1755-defuse-the-bomb](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1923-sentence-similarity-iii) |
@@ -753,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1755-defuse-the-bomb](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1755-defuse-the-bomb) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Enumeration
 |  |
