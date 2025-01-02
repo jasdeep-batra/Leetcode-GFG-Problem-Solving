@@ -1,7 +1,7 @@
 class Solution:
     def vowelStrings(self, words: List[str], queries: List[List[int]]) -> List[int]:
         result =[]
-        cache = [0]*(len(words)+1)
+        cache = [0]*(len(words))
 
         vowel = set(['a','e','i','o','u'])
         ind = 0
