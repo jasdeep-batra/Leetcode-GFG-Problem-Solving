@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2502-sort-the-people](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2502-sort-the-people) |
@@ -523,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1923-sentence-similarity-iii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -672,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -704,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
