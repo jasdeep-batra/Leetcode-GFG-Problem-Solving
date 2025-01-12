@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2379-maximum-total-importance-of-roads](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -538,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -570,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2846-robot-collisions) |
 ## Tree
