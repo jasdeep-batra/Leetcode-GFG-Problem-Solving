@@ -1,15 +1,18 @@
 class Solution:
     def minimumLength(self, s: str) -> int:
-        freq = Counter(s)
+        freq = [0]*26
         ans = 0
-        for key,value in freq.items():
-            if (value >= 3):
-                if (value%2==0):
+        for char in s:
+            freq[ord(char)-ord('a')]+=1
+        for num in freq:
+            if num >=3:
+                if num%2==0:
                     ans+=2
                 else:
                     ans+=1
             else:
-                ans+=value
+                ans+=num
+                
         return ans
             
         
