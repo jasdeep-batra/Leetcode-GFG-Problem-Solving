@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2379-maximum-total-importance-of-roads](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2509-minimize-xor](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2716-prime-subtraction-operation](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3195-separate-black-and-white-balls) |
@@ -733,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2509-minimize-xor](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
