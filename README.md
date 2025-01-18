@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2379-maximum-total-importance-of-roads) |
 | [2803-modify-graph-edge-weights](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2803-modify-graph-edge-weights) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1325-path-with-maximum-probability) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2379-maximum-total-importance-of-roads](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2183-minimum-operations-to-convert-number](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2183-minimum-operations-to-convert-number) |
@@ -300,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1333-sort-the-jumbled-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1435-xor-queries-of-a-subarray) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1524-string-matching-in-an-array) |
@@ -606,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0870-magic-squares-in-grid) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -712,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1325-path-with-maximum-probability) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Strongly Connected Component
