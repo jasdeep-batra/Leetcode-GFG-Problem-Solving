@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1207-delete-nodes-and-return-forest) |
 | [1396-count-servers-that-communicate](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1396-count-servers-that-communicate) |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -316,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0731-my-calendar-ii) |
+| [0854-making-a-large-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0890-lemonade-change) |
@@ -646,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
+| [0854-making-a-large-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0870-magic-squares-in-grid) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1396-count-servers-that-communicate) |
