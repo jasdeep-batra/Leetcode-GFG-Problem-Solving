@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0386-lexicographical-numbers) |
+| [0547-number-of-provinces](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0820-find-eventual-safe-states) |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
+| [0547-number-of-provinces](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0854-making-a-large-island) |
@@ -282,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0984-most-stones-removed-with-same-row-or-column) |
