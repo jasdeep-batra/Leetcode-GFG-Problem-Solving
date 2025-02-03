@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0820-find-eventual-safe-states) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0684-redundant-connection) |
@@ -285,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0854-making-a-large-island) |
@@ -316,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0539-minimum-time-difference](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0624-maximum-distance-in-arrays) |
@@ -565,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0539-minimum-time-difference](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0567-permutation-in-string) |
@@ -772,6 +778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2803-modify-graph-edge-weights) |
