@@ -14,18 +14,21 @@ class Solution:
 
         print(graph)
         
-        def dfs(start,end,visit):
-            if start not in graph:
-                return -1.0
-            if end in graph[start]:
-                return graph[start][end]
+        def dfs(s,e,visit):
+            stack = [(s,e,1)]
+            while(stack):
+                start,end,ew = stack.pop()
 
-            visit.add(start)
-            for neighbour,value in graph[start].items():
-                if neighbour not in visit:
-                    productWeight = dfs(neighbour,end,visit)
-                    if productWeight!=-1.0:
-                        return productWeight * value
+                if start not in graph:
+                    return -1.0
+                if end in graph[start]:
+                    return ew*graph[start][end]
+                visit.add(start)
+                for neighbour,value in graph[start].items():
+                    if neighbour not in visit:
+                        stack.append((neighbour,end,ew*value))
+
+
             return -1.0
 
         res = []
