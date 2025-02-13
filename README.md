@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2803-modify-graph-edge-weights) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -429,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3291-find-if-array-can-be-sorted](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3429-special-array-i) |
@@ -550,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2846-robot-collisions) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3447-clear-digits) |
 ## Math
