@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2379-maximum-total-importance-of-roads](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2379-maximum-total-importance-of-roads) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -651,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2580-circular-sentence) |
@@ -685,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2846-robot-collisions) |
 | [3447-clear-digits](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3447-clear-digits) |
@@ -852,6 +855,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-letter-tile-possibilities](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
