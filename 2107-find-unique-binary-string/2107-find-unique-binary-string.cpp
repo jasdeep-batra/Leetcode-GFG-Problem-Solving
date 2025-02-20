@@ -1,23 +1,27 @@
 class Solution {
 public:
-    void helper(int n, string s, string& res,vector<string>& nums)
+    bool helper(int n, string s, string& res,vector<string>& nums)
     {
         if (s.size()==n){
             if(find(nums.begin(),nums.end(),s)==nums.end()){
                 res = s;
+                return true;
             }
-            return;
+            return false;
         }
         for(int i=0;i<=1;i++){
-            helper(n,s+(char)(i+'0'),res,nums);
+            if(helper(n,s+(char)(i+'0'),res,nums))
+            {
+                return true;
+            }
         }
-        return;
+        return false;
     }
     string findDifferentBinaryString(vector<string>& nums) {
         // of n lenght how many unique can be build?
         string res = "";
         int n  = nums[0].size();
-        helper(n,"",res,nums);
+        bool ans = helper(n,"",res,nums);
         return res;
     }
 };
