@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2379-maximum-total-importance-of-roads](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2379-maximum-total-importance-of-roads) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2183-minimum-operations-to-convert-number](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2183-minimum-operations-to-convert-number) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Topological Sort
@@ -420,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -712,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
