@@ -1,6 +1,5 @@
 class Solution:
     def numberOfSubstrings(self, s: str) -> int:
-        check = {}
         a,b,c = 0,0,0
         n = len(s)
         left = 0 
