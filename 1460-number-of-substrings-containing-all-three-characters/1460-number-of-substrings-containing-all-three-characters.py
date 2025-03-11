@@ -2,7 +2,6 @@ class Solution:
     def numberOfSubstrings(self, s: str) -> int:
         check = {}
         n = len(s)
-        req = set(['a','b','c'])
         left = 0 
         right = 0
         ans = 0
