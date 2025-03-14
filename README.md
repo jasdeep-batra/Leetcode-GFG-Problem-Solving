@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2777-find-the-distinct-difference-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2777-find-the-distinct-difference-array) |
 | [2792-neighboring-bitwise-xor](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2846-robot-collisions) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -519,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2777-find-the-distinct-difference-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2777-find-the-distinct-difference-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
