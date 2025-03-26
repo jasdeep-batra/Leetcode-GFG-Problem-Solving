@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2379-maximum-total-importance-of-roads](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -439,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2183-minimum-operations-to-convert-number](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2183-minimum-operations-to-convert-number) |
@@ -653,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1674-minimum-operations-to-make-array-equal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2649-count-total-number-of-colored-cells) |
@@ -815,6 +818,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2411-spiral-matrix-iv) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
