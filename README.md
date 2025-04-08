@@ -368,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -516,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0264-ugly-number-ii) |
@@ -829,6 +831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0854-making-a-large-island) |
