@@ -367,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
@@ -859,6 +860,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0948-sort-an-array) |
@@ -889,6 +891,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0072-edit-distance) |
