@@ -397,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
+| [0493-reverse-pairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0493-reverse-pairs) |
 | [0539-minimum-time-difference](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -629,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0493-reverse-pairs) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0731-my-calendar-ii) |
@@ -886,6 +888,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0948-sort-an-array) |
 ## Counting
@@ -968,6 +971,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -1111,11 +1115,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0731-my-calendar-ii) |
 | [2434-design-a-number-container-system](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2434-design-a-number-container-system) |
@@ -1158,4 +1164,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
