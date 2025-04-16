@@ -496,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2685-first-completely-painted-row-or-column) |
@@ -587,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2586-longest-square-streak-in-an-array) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
@@ -1146,6 +1148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3483-alternating-groups-ii) |
