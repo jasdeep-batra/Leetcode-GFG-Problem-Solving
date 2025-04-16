@@ -658,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0859-design-circular-deque) |
@@ -728,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0273-integer-to-english-words) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
