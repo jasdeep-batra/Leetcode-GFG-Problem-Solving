@@ -750,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0038-count-and-say](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0076-minimum-window-substring) |
