@@ -662,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0725-split-linked-list-in-parts) |
@@ -733,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
