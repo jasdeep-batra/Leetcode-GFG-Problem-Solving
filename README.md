@@ -518,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3194-find-words-containing-character](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -842,6 +843,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3194-find-words-containing-character](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
