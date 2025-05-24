@@ -1,20 +1,18 @@
 class Solution:
     def countSubarrays(self, nums: List[int], k: int) -> int:
-        prefsum = [0]*len(nums)
+        left = 0
+        score = 0
+        ans = 0
         summ = 0
-        i= 0
-        count = 0
-        for j in range(0,len(nums)):
+        for j in range(len(nums)):
             summ+=nums[j]
-            while (summ*(j-i+1)) >= k:
-                summ-=nums[i]
-                i+=1
-            
-            count += (j-i+1)
-        return count
+            score = (j+1)*nums[j]
+            while summ*(j-left+1)>=k :
+                summ-=nums[left]
+                left+=1
+            ans+=(j-left+1)
 
-            
-
+        return ans
 
 
 
