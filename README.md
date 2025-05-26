@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0695-max-area-of-island) |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0493-reverse-pairs) |
 | [0539-minimum-time-difference](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0539-minimum-time-difference) |
+| [0542-01-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0695-max-area-of-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0695-max-area-of-island) |
@@ -917,6 +919,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0870-magic-squares-in-grid) |
@@ -985,6 +988,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
