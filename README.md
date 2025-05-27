@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0854-making-a-large-island) |
+| [0971-shortest-bridge](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0971-shortest-bridge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0854-making-a-large-island) |
+| [0971-shortest-bridge](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -425,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0952-word-subsets) |
+| [0971-shortest-bridge](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0971-shortest-bridge) |
 | [1002-maximum-width-ramp](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1002-maximum-width-ramp) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1117-as-far-from-land-as-possible](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1117-as-far-from-land-as-possible) |
@@ -925,6 +928,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0870-magic-squares-in-grid) |
+| [0971-shortest-bridge](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1396-count-servers-that-communicate) |
