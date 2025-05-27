@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0854-making-a-large-island) |
+| [1117-as-far-from-land-as-possible](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1396-count-servers-that-communicate) |
@@ -426,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1002-maximum-width-ramp) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1117-as-far-from-land-as-possible](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1256-rank-transform-of-an-array) |
@@ -923,6 +925,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0870-magic-squares-in-grid) |
+| [1117-as-far-from-land-as-possible](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -994,6 +997,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0909-stone-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0909-stone-game) |
+| [1117-as-far-from-land-as-possible](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1170-shortest-common-supersequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
