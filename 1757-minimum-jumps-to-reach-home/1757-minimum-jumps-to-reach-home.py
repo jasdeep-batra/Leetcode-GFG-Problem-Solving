@@ -3,28 +3,28 @@ from collections import deque
 class Solution:
     def minimumJumps(self, forbidden: List[int], a: int, b: int, x: int) -> int:
         forbidden_set = set(forbidden)
-        max_limit =  10000
-        visit = set()
-        queue = deque([(0, 0, False)])  # (pos, steps, was_last_backward)
-        visit.add((0, False))
-        
+        max_limit = max(max(forbidden),x) + a + b
+        visited = set()
+        queue = deque([(0,False)])  # (pos, steps, was_back)
+        visited.add((0, False))
+        steps = 0
+        for pos in forbidden:
+            visited.add((pos,False))
+            visited.add((pos,True))
         while queue:
-            curr, step, back = queue.popleft()
-            if curr == x:
-                return step
+            for _ in range(len(queue)):
+                pos, is_fw = queue.popleft()
+                if pos == x:
+                    return steps
+                forward,backward = (pos+a,True), (pos-b,False)
+                if pos+a <= max_limit and forward not in visited:
+                    visited.add(forward)
+                    queue.append(forward)
+                if is_fw   and pos-b>0 and backward not in visited:
+                    visited.add(backward)
+                    queue.append(backward)
+            steps+=1
+
             
-            # Try both directions
-            for jump in [a, -b]:
-                if back and jump == -b:  # Skip backward if last was backward
-                    continue
-                
-                new_pos = curr + jump
-                new_back = jump == -b  # True if this is a backward jump
-                
-                if (0 <= new_pos <= max_limit and 
-                    new_pos not in forbidden_set and 
-                    (new_pos, new_back) not in visit):
-                    visit.add((new_pos, new_back))
-                    queue.append((new_pos, step+1, new_back))
         
         return -1
