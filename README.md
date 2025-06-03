@@ -533,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2777-find-the-distinct-difference-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2777-find-the-distinct-difference-array) |
 | [2792-neighboring-bitwise-xor](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2846-robot-collisions) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1027,6 +1028,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2262-solving-questions-with-brainpower) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Design
 |  |
 | ------- |
