@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0820-find-eventual-safe-states) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0854-making-a-large-island) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0971-shortest-bridge](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1016,6 +1018,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-sliding-puzzle](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0787-sliding-puzzle) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0909-stone-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0909-stone-game) |
 | [1117-as-far-from-land-as-possible](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1170-shortest-common-supersequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1170-shortest-common-supersequence) |
@@ -1127,6 +1130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0476-number-complement) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1258,4 +1262,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0493-reverse-pairs) |
+## Bitmask
+|  |
+| ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0877-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
