@@ -1021,6 +1021,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
+| [0688-knight-probability-in-chessboard](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0688-knight-probability-in-chessboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-sliding-puzzle](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0787-sliding-puzzle) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0877-shortest-path-visiting-all-nodes) |
