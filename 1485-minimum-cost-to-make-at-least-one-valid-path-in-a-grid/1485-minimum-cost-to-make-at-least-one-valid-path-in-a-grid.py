@@ -1,34 +1,32 @@
 class Solution:
-    # Direction vectors: right, left, down, up (matching grid values 1,2,3,4)
-    _dirs = [(0, 1), (0, -1), (1, 0), (-1, 0)]
-
     def minCost(self, grid: List[List[int]]) -> int:
-        num_rows, num_cols = len(grid), len(grid[0])
+        #no need of dijikstra
+        row,col = len(grid),len(grid[0])
+        visit = [[sys.maxsize]*col for _ in range(row)]
+        visit[0][0] = 0
+        visited = set()
+        queue = deque()
+        queue.append((0,0,0))
+        dirs = {1:(0,1),2:(0,-1),3:(1,0),4:(-1,0)}
 
-        # Min-heap ordered by cost. Each element is (cost, row, col)
-        pq = [(0, 0, 0)]  # Using list as heap, elements are tuples
-        min_cost = [[float("inf")] * num_cols for _ in range(num_rows)]
-        min_cost[0][0] = 0
+        while queue:
+            i,j,cost = queue.popleft()
+            for key,values in dirs.items():
+                dx,dy = values
+                x,y = i+dx,j+dy
+                if 0<=x<row and 0<=y<col:
+                    new_cost = 0 if grid[i][j]==key else 1
+                    if visit[x][y] > (new_cost + visit[i][j]):
+                        queue.append((x,y,new_cost)) #we might not be properly storing state
+                        visit[x][y] = new_cost + visit[i][j]
+                        visited.add((x,y,new_cost))
 
-        while pq:
-            cost, row, col = heapq.heappop(pq)
+        for item in visit:
+            print(item)
+        return visit[row-1][col-1]
+                # if grid[i][j]==key:
 
-            # Skip if we've found a better path to this cell
-            if min_cost[row][col] != cost:
-                continue
 
-            # Try all four directions
-            for d, (dx, dy) in enumerate(self._dirs):
-                new_row, new_col = row + dx, col + dy
 
-                # Check if new position is valid
-                if 0 <= new_row < num_rows and 0 <= new_col < num_cols:
-                    # Add cost=1 if we need to change direction
-                    new_cost = cost + (d != (grid[row][col] - 1))
 
-                    # Update if we found a better path
-                    if min_cost[new_row][new_col] > new_cost:
-                        min_cost[new_row][new_col] = new_cost
-                        heapq.heappush(pq, (new_cost, new_row, new_col))
-
-        return min_cost[num_rows - 1][num_cols - 1]
+        
