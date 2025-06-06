@@ -759,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0264-ugly-number-ii) |
@@ -1014,6 +1015,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0118-pascals-triangle) |
@@ -1184,6 +1186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0787-sliding-puzzle](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0787-sliding-puzzle) |
 ## Game Theory
