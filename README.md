@@ -414,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0274-h-index) |
@@ -1025,6 +1026,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0368-largest-divisible-subset) |
