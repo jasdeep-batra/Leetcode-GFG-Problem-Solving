@@ -1,17 +1,12 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        memo = {}
-        def rec(i):
-            if i>=len(nums):
-                return 0
-            if i in memo:
-                return memo[i]
-            #two options
-            money = max(nums[i]+rec(i+2),rec(i+1))
-            memo[i] = money
-            return money
-        
-        ans = rec(0)
-        return ans
+        dp = [0]*(len(nums)+1)
+        dp[0] = 0
+        dp[1] = nums[0]
+        for i in range(2,len(dp)):
+            dp[i] = max(dp[i-1],nums[i-1]+dp[i-2])
+
+        print(dp)
+        return max(dp)
             
         
