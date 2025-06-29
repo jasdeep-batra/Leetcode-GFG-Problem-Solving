@@ -413,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0189-rotate-array) |
@@ -588,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
@@ -833,6 +835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1034,6 +1037,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0264-ugly-number-ii) |
@@ -1203,6 +1207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0787-sliding-puzzle](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0787-sliding-puzzle) |
 ## Game Theory
@@ -1230,6 +1235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2494-sum-of-prefix-scores-of-strings) |
