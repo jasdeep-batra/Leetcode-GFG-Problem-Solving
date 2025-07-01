@@ -913,6 +913,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3617-find-the-original-typed-string-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
