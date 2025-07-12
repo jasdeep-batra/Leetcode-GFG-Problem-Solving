@@ -448,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0695-max-area-of-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0729-my-calendar-i) |
@@ -1085,6 +1086,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0664-strange-printer](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0688-knight-probability-in-chessboard) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0741-cherry-pickup](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0741-cherry-pickup) |
 | [0769-largest-plus-sign](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0769-largest-plus-sign) |
@@ -1192,6 +1194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0040-combination-sum-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-sliding-puzzle](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0787-sliding-puzzle) |
 | [1160-letter-tile-possibilities](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1206,6 +1209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0476-number-complement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1250,6 +1254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-sliding-puzzle](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0787-sliding-puzzle) |
 ## Game Theory
 |  |
@@ -1346,5 +1351,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bitmask
 |  |
 | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0877-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
