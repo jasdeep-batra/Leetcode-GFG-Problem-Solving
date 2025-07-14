@@ -464,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0909-stone-game) |
+| [0911-profitable-schemes](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0911-profitable-schemes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0952-word-subsets) |
@@ -1095,6 +1096,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0787-sliding-puzzle) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0909-stone-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0909-stone-game) |
+| [0911-profitable-schemes](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0911-profitable-schemes) |
 | [0967-minimum-falling-path-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0967-minimum-falling-path-sum) |
 | [1117-as-far-from-land-as-possible](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1130-last-stone-weight-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1130-last-stone-weight-ii) |
