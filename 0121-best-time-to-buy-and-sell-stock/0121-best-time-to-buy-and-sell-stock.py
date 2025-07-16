@@ -1,18 +1,13 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        res = 0
-        summ =  0
+        dp = [0]*len(prices)
+        dp[0] = prices[0]
+        ans = 0
         for i in range(1,len(prices)):
-            summ+=prices[i]-prices[i-1]
-            summ = max(0,summ) #reset
-            res = max(res,summ)
-        return res
-        
+            ans = max(ans,prices[i]-dp[i-1])
+            # print(prices[i]-dp[i-1])
+            dp[i] = min(prices[i],dp[i-1])
 
+        print(dp)
+        return ans
 
-
-            
-
-        
-
-        
