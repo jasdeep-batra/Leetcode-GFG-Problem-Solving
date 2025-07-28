@@ -1,17 +1,13 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        memo = {}
-        def recursion(i, b):
-            if i >= len(prices):
-                return 0
-            if (i,b) in memo:
-                return memo[(i,b)]
-            if b:
-                profit = max(recursion(i+1, 0) - prices[i], recursion(i+1, 1))
-                memo[(i,b)] = profit
-            else:
-                profit = max(prices[i] + recursion(i+2, 1), recursion(i+1, 0))
-                memo[(i,b)] = profit
-            return profit
 
-        return recursion(0, 1)
+        dp = [[0,0,0] for _ in range(len(prices))]
+        # [buy,sell,hold]
+        # in dp we will be storing profit so each day even if buy then profit will be negative
+        dp[0][0] = -prices[0]        
+        for i in range(1,len(prices)):
+            dp[i][2] = max(dp[i-1][1],dp[i-1][2]) #rest
+            dp[i][0] = max(dp[i-1][2]-prices[i],dp[i-1][0]) #buy or hold
+            dp[i][1] = prices[i]+dp[i-1][0]#sell
+        
+        return max(dp[len(prices)-1][1] , dp[len(prices)-1][2])
