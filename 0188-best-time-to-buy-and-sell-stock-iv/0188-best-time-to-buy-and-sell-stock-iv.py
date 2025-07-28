@@ -1,17 +1,17 @@
 class Solution:
     def maxProfit(self,k:int, prices: List[int]) -> int:        
-        memo = [[[-1]*2 for _ in range(k+1)] for i in range(len(prices)+1)]
-        def recursion(i,buy,k):
-            if i==len(prices) or k==0:
-                return 0
-            if memo[i][k][buy]!=-1:
-                return memo[i][k][buy]
+        if k > len(prices)//2:
             profit = 0
-            if buy==1:
-                profit = max(-prices[i] + recursion(i+1,0,k),recursion(i+1,1,k))
-                memo[i][k][buy] = profit
-            else:
-                profit = max(prices[i]+recursion(i+1,1,k-1),recursion(i+1,0,k))
-                memo[i][k][buy] = profit
+            for i in range(1,len(prices)):
+                if prices[i]>prices[i-1]:                    
+                    profit+=(prices[i]-prices[i-1])
+
             return profit
-        return recursion(0,1,k)
+        dp = [[0,float(-inf)] for i in range(k+1)]
+        
+        for price in prices:
+            for i in range(1,k+1):
+                dp[i][0] = max(dp[i][0],dp[i][1]+price)
+                dp[i][1] = max(dp[i][1],dp[i-1][0]-price)
+
+        return dp[k][0]
