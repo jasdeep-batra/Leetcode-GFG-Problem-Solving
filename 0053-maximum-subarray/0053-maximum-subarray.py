@@ -5,8 +5,8 @@ class Solution:
         ans = nums[0]
 
         for i in range(1,len(nums)):
-            mx = max(nums[i],sm+nums[i])
-            sm = max(nums[i],sm+nums[i])
+            mx = max(nums[i],mx+nums[i])
+            # sm = max(nums[i],sm+nums[i])
             ans = max(ans,mx)
         return ans
 
