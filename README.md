@@ -836,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0050-powx-n) |
@@ -858,6 +859,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0072-edit-distance) |
@@ -1064,6 +1066,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0053-maximum-subarray) |
