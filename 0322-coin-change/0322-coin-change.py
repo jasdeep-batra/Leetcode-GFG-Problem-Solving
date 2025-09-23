@@ -1,26 +1,17 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        #here you  can repeat the coin pick again
-        memo = {}
-        def helper(i,amt):
-            if i>=len(coins) or amt<0:
-                return sys.maxsize
-            if amt==0:
-                return 0
-            if (i,amt) in memo:
-                return memo[(i,amt)]
-            # print("stack: ",i," : ",amt-coins[i])
-            step = 1 + helper(i,amt-coins[i])
-            # print("step:", step)
-            step = min(step,helper(i+1,amt))
-            memo[(i,amt)] = step
-            return step
+        dp = [[float('inf')]*(amount+1) for _ in range(len(coins)+1)]
+        dp[0][0] = float('inf')
+        for i in range(1,len(coins)+1):
+            dp[i][0] = 0
+        
+        for i in range(1,len(coins)+1):
+            for j in range(1,amount+1):
+                if j < coins[i-1]:
+                    dp[i][j] = dp[i-1][j]
+                else:
+                    dp[i][j] = min(1+dp[i][j-coins[i-1]],dp[i-1][j])
+        return dp[len(coins)][amount] if dp[len(coins)][amount]!=float('inf') else -1
 
 
-        ans = helper(0,amount)
-        return helper(0,amount) if ans!=sys.maxsize else -1
-
-
-
-            
-
+        
