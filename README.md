@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
+| [0778-reorganize-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0726-number-of-atoms) |
+| [0778-reorganize-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1333-sort-the-jumbled-numbers) |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0744-network-delay-time) |
+| [0778-reorganize-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0778-reorganize-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1127-last-stone-weight) |
@@ -642,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0726-number-of-atoms) |
+| [0778-reorganize-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0778-reorganize-string) |
 | [0870-magic-squares-in-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -897,6 +901,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0726-number-of-atoms) |
+| [0778-reorganize-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0952-word-subsets) |
@@ -1063,6 +1068,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
+| [0778-reorganize-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1364-tuple-with-same-product) |
