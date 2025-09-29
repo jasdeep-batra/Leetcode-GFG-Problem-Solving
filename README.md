@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1829-maximum-units-on-a-truck](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1829-maximum-units-on-a-truck) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2379-maximum-total-importance-of-roads](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2379-maximum-total-importance-of-roads) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1829-maximum-units-on-a-truck](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1829-maximum-units-on-a-truck) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2379-maximum-total-importance-of-roads](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2379-maximum-total-importance-of-roads) |
@@ -527,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1803-average-waiting-time) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1829-maximum-units-on-a-truck](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1829-maximum-units-on-a-truck) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
