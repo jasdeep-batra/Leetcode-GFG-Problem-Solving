@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0744-network-delay-time) |
@@ -454,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0368-largest-divisible-subset) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
