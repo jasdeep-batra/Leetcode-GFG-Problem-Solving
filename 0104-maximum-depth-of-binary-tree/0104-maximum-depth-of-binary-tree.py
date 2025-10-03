@@ -6,6 +6,7 @@
 #         self.right = right
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
+        @lru_cache(None)
         def helper(r):
             if not r:
                 return 0
