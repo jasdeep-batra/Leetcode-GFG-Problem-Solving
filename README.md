@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0399-evaluate-division) |
@@ -1022,6 +1024,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
@@ -1048,6 +1051,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
