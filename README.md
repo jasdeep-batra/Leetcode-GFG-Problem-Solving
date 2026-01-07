@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -672,6 +673,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -928,6 +930,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
