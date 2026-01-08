@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0088-merge-sorted-array) |
@@ -447,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0056-merge-intervals) |
@@ -662,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -918,6 +921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0076-minimum-window-substring) |
