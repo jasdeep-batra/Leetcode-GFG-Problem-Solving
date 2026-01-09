@@ -1,13 +1,9 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        news = ""
-        for  i in s:
-            if i.isalpha() or i.isnumeric():
-                news+=i
-        
-        
-        newss = news[::-1]
+        normalised_string = ""
+        for i in range(len(s)):
+            if s[i].isalpha() or s[i].isdigit():
+                normalised_string += (s[i].lower() if s[i].isalpha() else s[i])
 
-    
-        return newss.lower()==news.lower()
-        
+        return normalised_string==normalised_string[::-1]
+
