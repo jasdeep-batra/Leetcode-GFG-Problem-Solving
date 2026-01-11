@@ -7,19 +7,22 @@ class Solution:
         i,j = 0,0
         ans = float('inf')
         res = ""
-        def get_sum_of_freq():
-            return sum([val for char, val in freq.items() if val > 0])
+        count = len(t)
         while j < len(s):
             if s[j] in freq:
                 freq[s[j]]-=1
+                if freq[s[j]] >= 0:
+                    count-=1
             
-            while get_sum_of_freq()==0:
+            while count<=0:
                 if (j - i + 1) < ans:
                     ans = j - i + 1
                     res = s[i:j+1]
                 
                 if s[i] in freq:
                     freq[s[i]]+=1
+                    if freq[s[i]]>0:
+                        count+=1 
                 i+=1
 
             j+=1
