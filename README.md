@@ -323,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0399-evaluate-division) |
+| [0449-serialize-and-deserialize-bst](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0684-redundant-connection) |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0542-01-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0684-redundant-connection) |
@@ -957,6 +959,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0449-serialize-and-deserialize-bst](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0539-minimum-time-difference](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0567-permutation-in-string) |
@@ -1077,6 +1080,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -1119,6 +1123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -1286,6 +1291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0432-all-oone-data-structure) |
+| [0449-serialize-and-deserialize-bst](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0729-my-calendar-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0859-design-circular-deque) |
@@ -1421,6 +1427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0938-range-sum-of-bst) |
