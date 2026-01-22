@@ -880,6 +880,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0264-ugly-number-ii) |
@@ -1057,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0100-same-tree) |
@@ -1100,6 +1102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0100-same-tree) |
@@ -1229,6 +1232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0118-pascals-triangle) |
@@ -1420,6 +1424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
