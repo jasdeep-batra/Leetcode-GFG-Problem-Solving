@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0179-largest-number) |
 | [0502-ipo](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0502-ipo) |
 | [0624-maximum-distance-in-arrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0624-maximum-distance-in-arrays) |
+| [0630-course-schedule-iii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0778-reorganize-string) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
+| [0630-course-schedule-iii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0721-accounts-merge) |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0502-ipo) |
+| [0630-course-schedule-iii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0778-reorganize-string) |
@@ -517,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0624-maximum-distance-in-arrays) |
+| [0630-course-schedule-iii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0695-max-area-of-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0698-partition-to-k-equal-sum-subsets) |
