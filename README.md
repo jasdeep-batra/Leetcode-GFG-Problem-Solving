@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0778-reorganize-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0890-lemonade-change](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0890-lemonade-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0778-reorganize-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0948-sort-an-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0948-sort-an-array) |
@@ -535,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0870-magic-squares-in-grid) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0890-lemonade-change](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -1276,6 +1279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0741-cherry-pickup](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0741-cherry-pickup) |
 | [0769-largest-plus-sign](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0769-largest-plus-sign) |
 | [0787-sliding-puzzle](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0787-sliding-puzzle) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0909-stone-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0909-stone-game) |
