@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1383-maximum-performance-of-a-team](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1383-maximum-performance-of-a-team) |
 | [1502-construct-k-palindrome-strings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1642-furthest-building-you-can-reach](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1642-furthest-building-you-can-reach) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1829-maximum-units-on-a-truck) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1325-path-with-maximum-probability) |
 | [1383-maximum-performance-of-a-team](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1383-maximum-performance-of-a-team) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1642-furthest-building-you-can-reach](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1642-furthest-building-you-can-reach) |
 | [2034-stock-price-fluctuation](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2034-stock-price-fluctuation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -591,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1642-furthest-building-you-can-reach](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1642-furthest-building-you-can-reach) |
 | [1656-count-good-triplets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
