@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1325-path-with-maximum-probability) |
 | [1383-maximum-performance-of-a-team](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1383-maximum-performance-of-a-team) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2034-stock-price-fluctuation](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2034-stock-price-fluctuation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2379-maximum-total-importance-of-roads) |
@@ -752,6 +753,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2034-stock-price-fluctuation](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2034-stock-price-fluctuation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2107-find-unique-binary-string) |
@@ -1334,6 +1336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2034-stock-price-fluctuation](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2034-stock-price-fluctuation) |
 | [2434-design-a-number-container-system](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2434-design-a-number-container-system) |
 ## Randomized
 |  |
@@ -1535,6 +1538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0731-my-calendar-ii) |
+| [2034-stock-price-fluctuation](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2034-stock-price-fluctuation) |
 | [2434-design-a-number-container-system](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2434-design-a-number-container-system) |
 ## Doubly-Linked List
 |  |
@@ -1577,6 +1581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
+| [2034-stock-price-fluctuation](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2034-stock-price-fluctuation) |
 ## Combinatorics
 |  |
 | ------- |
