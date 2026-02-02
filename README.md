@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0743-network-delay-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0744-network-delay-time) |
 | [0767-reorganize-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0767-reorganize-string) |
 | [0778-reorganize-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0778-reorganize-string) |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0778-swim-in-rising-water](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0778-swim-in-rising-water) |
@@ -405,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0744-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0778-swim-in-rising-water) |
 | [0787-sliding-puzzle](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0787-sliding-puzzle) |
@@ -1411,6 +1414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1626,4 +1630,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0778-swim-in-rising-water) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
