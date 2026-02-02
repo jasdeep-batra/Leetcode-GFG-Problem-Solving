@@ -1,40 +1,29 @@
 class Solution:
-    def trapRainWater(self, height: List[List[int]]) -> int:
-        dir = (0, 1, 0, -1, 0)
-        m, n = len(height), len(height[0])
-        if m <= 2 or n <= 2:
-            return 0
+    def trapRainWater(self, heightMap: List[List[int]]) -> int:
+        #do we need to find the block whose boundry has greater height.
+        #assume it as 2d map and we need to find the blocks with less number than boundry
+        # or we can slice
+        #pq will be use to start from smallest height blocks 
+        pq =  []
+        visit = [[False]*len(heightMap[0]) for _ in range(len(heightMap))]
+        for i,row in enumerate(heightMap):
+            for j in range(len(row)):
+                if i==0 or i==len(heightMap)-1 or j==0 or j==len(row)-1:
+                    heapq.heappush(pq,(row[j],i,j))
+                    visit[i][j] = True
 
-        boundary = []
-        for i in range(m):
-            boundary.append((height[i][0], i, 0))
-            boundary.append((height[i][-1], i, n - 1))
-            height[i][0] = height[i][-1] = -1
+        #go fo the bfs
+        res = 0
+        while pq:
+            h,i,j = heapq.heappop(pq)
+            for dx,dy in ((1,0),(0,1),(-1,0),(0,-1)):
+                x,y = i+dx,j+dy
+                if x>=0 and x<len(heightMap) and y>=0 and y<len(heightMap[0]) and not visit[x][y]:
+                    visit[x][y]=True
+                    nh = heightMap[x][y]
+                    if h>nh:
+                        res+=(h-nh)
 
-        for j in range(1, n - 1):
-            boundary.append((height[0][j], 0, j))
-            boundary.append((height[-1][j], m - 1, j))
-            height[0][j] = height[-1][j] = -1
+                    heapq.heappush(pq,(max(nh,h),x,y))
 
-        heapify(boundary)
-        ans, water_level = 0, 0
-
-        while boundary:
-            h, i, j = heappop(boundary)
-
-            water_level = max(water_level, h)
-
-            for a in range(4):
-                i0, j0 = i + dir[a], j + dir[a + 1]
-                if i0 < 0 or i0 >= m or j0 < 0 or j0 >= n or height[i0][j0] == -1:
-                    continue
-                currH = height[i0][j0]
-                if currH < water_level:
-                    ans += water_level - currH
-
-                height[i0][j0] = -1
-                heappush(boundary, (currH, i0, j0))
-        return ans
- 
-
-        
+        return res
