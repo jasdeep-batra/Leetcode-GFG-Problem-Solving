@@ -536,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0542-01-matrix) |
@@ -734,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0432-all-oone-data-structure) |
+| [0496-next-greater-element-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
@@ -1083,6 +1085,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1414,6 +1417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3001-apply-operations-to-maximize-score) |
