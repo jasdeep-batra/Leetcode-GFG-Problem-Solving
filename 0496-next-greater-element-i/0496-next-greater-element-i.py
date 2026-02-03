@@ -1,6 +1,6 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        ans = dict()
+        ans = [-1]*10001
         stack = []
         for i in range(len(nums2)):
             if not stack:
@@ -12,5 +12,5 @@ class Solution:
 
             stack.append(i)
 
-        res = [ans[val] if val in ans else -1 for val in nums1]
+        res = [ans[val] for val in nums1]
         return res 
