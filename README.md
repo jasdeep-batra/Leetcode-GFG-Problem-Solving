@@ -507,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0174-dungeon-game) |
@@ -929,6 +930,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0264-ugly-number-ii) |
@@ -1084,6 +1086,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0234-palindrome-linked-list) |
