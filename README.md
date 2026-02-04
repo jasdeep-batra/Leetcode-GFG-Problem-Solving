@@ -556,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0731-my-calendar-ii) |
+| [0739-daily-temperatures](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0741-cherry-pickup](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0741-cherry-pickup) |
 | [0769-largest-plus-sign](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0769-largest-plus-sign) |
 | [0778-swim-in-rising-water](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0778-swim-in-rising-water) |
@@ -1096,6 +1097,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0726-number-of-atoms) |
+| [0739-daily-temperatures](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1002-maximum-width-ramp) |
@@ -1429,6 +1431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3001-apply-operations-to-maximize-score) |
