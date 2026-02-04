@@ -995,6 +995,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0097-interleaving-string) |
@@ -1084,6 +1085,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
