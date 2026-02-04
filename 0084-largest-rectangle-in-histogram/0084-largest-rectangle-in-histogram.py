@@ -18,9 +18,6 @@ class Solution:
                 left[stack[-1]] = i
                 stack.pop()
             stack.append(i)
-
-        print(left)
-        print(right)
         area = 0
         for i in range(n):
             area = max(area,heights[i]*(right[i]-left[i]-1))
