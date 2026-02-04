@@ -1,29 +1,17 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
-        #monotonic stack 
-        #updated version
-        # two pointer appraoch 
-        left = 1
-        right = len(height)-2
-        min_left = 0
-        min_right = len(height)-1
+        mx_i,i = 0,0
+        n = len(height)
+        mx_j,j = 0,n-1
         ans = 0
-        while(right>=left):
-            if height[min_right] >height[min_left]:
-                if height[left] > height[min_left]:
-                    min_left = left                
-                else:
-                    ans+=(height[min_left]-height[left])
-                left+=1
+        while j>i:
+            if height[i] < height[j]:
+                mx_i = max(mx_i,height[i])
+                ans+=(mx_i-height[i])
+                i+=1
             else:
-                if height[right] > height[min_right]:
-                    min_right = right                
-                else:
-                    ans+=(height[min_right]-height[right])
-                right-=1
+                mx_j = max(mx_j,height[j])
+                ans+=(mx_j-height[j])
+                j-=1
+
         return ans
-            
-
-
-
-        
