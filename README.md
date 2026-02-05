@@ -981,6 +981,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0394-decode-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -1019,6 +1020,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1104,6 +1106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
