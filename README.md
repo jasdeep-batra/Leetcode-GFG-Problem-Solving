@@ -941,6 +941,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0273-integer-to-english-words) |
@@ -1017,6 +1018,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0273-integer-to-english-words) |
@@ -1109,6 +1111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0496-next-greater-element-i) |
