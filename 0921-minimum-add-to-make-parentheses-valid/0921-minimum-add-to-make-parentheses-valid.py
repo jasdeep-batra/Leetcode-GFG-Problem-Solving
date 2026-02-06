@@ -4,10 +4,10 @@ class Solution:
         for item in s:
             if not stack:
                 stack.append(item)
-            if item=='(':
+            elif item=='(':
                 stack.append(item)
             
-            if item==')':
+            elif item==')':
                 if stack[-1]=='(':
                     stack.pop() 
                 else:
