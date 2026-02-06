@@ -1062,6 +1062,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1160-letter-tile-possibilities](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1170-shortest-common-supersequence) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -1142,6 +1143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1002-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1544-make-the-string-great) |
