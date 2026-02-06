@@ -1,6 +1,7 @@
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
         stack = []
+        s=list(s)
         for i,char in enumerate(s):
             if not stack and char in {'(',')'}:
                 stack.append((i,char))
@@ -11,16 +12,11 @@ class Solution:
                 stack.append((i,char))
 
         ans = ""
-        sett = set()
-        for i,j in stack:
-            sett.add(i)
 
-        for i,c in enumerate(s):
-            if i not in sett:
-                ans+=c
-        return ans
+        while stack:
+            s[stack.pop()[0]]=""
 
-        return ""
+        return "".join(s)
 
 
             
