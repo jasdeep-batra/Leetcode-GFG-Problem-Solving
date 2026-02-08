@@ -1,24 +1,33 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        if len(s2) < len(s1):
+        if len(s2)  < len(s1):
             return False
-        freq1 = [0]*26
 
-        for item in s1:
-            freq1[ord(item)-ord('a')]+=1
+        # premutation means any sequence
+        #sliding window should solve this
 
-        freq2 = [0]*26
+        freq = Counter(s1)
 
-        for i in range(len(s1)):
-            freq2[ord(s2[i])-ord('a')]+=1
+        i = 0
 
-        if freq1==freq2:
-            return True
+        counter = len(s1)
+        for j in range(len(s2)):
+            if s2[j] in freq:
+                freq[s2[j]]-=1
 
-        for i in range(len(s1),len(s2)):
-            freq2[ord(s2[i]) - ord('a')]+=1
-            freq2[ord(s2[i-len(s1)]) - ord('a')]-=1
+                if freq[s2[j]]>=0:
+                    counter-=1
 
-            if freq1==freq2:
+            while j-i+1 > len(s1):
+                if s2[i] in freq:
+                    freq[s2[i]]+=1
+                    if freq[s2[i]] > 0:
+                        counter+=1
+
+                i+=1
+
+            if counter==0:
                 return True
-        return False
+        print(counter)
+        return False        
+
