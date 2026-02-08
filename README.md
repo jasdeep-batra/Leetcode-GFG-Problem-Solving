@@ -591,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0971-shortest-bridge) |
+| [0992-subarrays-with-k-different-integers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-maximum-width-ramp](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1002-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1036-rotting-oranges](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1036-rotting-oranges) |
@@ -774,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0952-word-subsets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0992-subarrays-with-k-different-integers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1330,6 +1332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0767-reorganize-string) |
 | [0778-reorganize-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0992-subarrays-with-k-different-integers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1396-count-servers-that-communicate) |
@@ -1669,6 +1672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
