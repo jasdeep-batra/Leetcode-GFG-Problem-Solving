@@ -1,15 +1,27 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        dictt = {}
-        if not s:
-            return 0
-        left,ans = -1,0
-        for i in range(len(s)):
-            if s[i] in dictt and dictt[s[i]] > left:
-                left = dictt[s[i]]
-            dictt[s[i]] = i
-            ans = max(ans,i-left)
+        mapp = {}
+        ans = float('-inf')
+        i=0
+        for j in range(len(s)):
+            if s[j] not in mapp:
+                mapp[s[j]] = j
 
+            else:
+                print(j)
+                print(i)
+                print("----------")
+                ans = max(ans,j-i)
+                if mapp[s[j]] >= i:
+                    i = mapp[s[j]]+1
+                mapp[s[j]] = j
         
-        return ans
+        print(mapp)
+        if ans==float('-inf'):
+            ans = len(s)
+        else:
+            print(i)
+            ans = max(ans,len(s)-i)
 
+
+        return ans
