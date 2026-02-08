@@ -754,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0432-all-oone-data-structure) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0567-permutation-in-string) |
@@ -1043,6 +1044,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0539-minimum-time-difference](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0564-find-the-closest-palindrome) |
@@ -1653,6 +1655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
