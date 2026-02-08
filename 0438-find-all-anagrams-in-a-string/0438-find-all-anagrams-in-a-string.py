@@ -19,12 +19,9 @@ class Solution:
                     if mapp[s[j]]>=0:
                         count+=1
                 j+=1
-                print(mapp)
-                print(count)
                 if count==len(p):
                     res.append(i)
             else:
-                print(i)
                 if s[i] in mapp:
                     mapp[s[i]]+=1
                     if mapp[s[i]]>0:
