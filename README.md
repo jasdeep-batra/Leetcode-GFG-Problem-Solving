@@ -613,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1383-maximum-performance-of-a-team](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1383-maximum-performance-of-a-team) |
 | [1396-count-servers-that-communicate](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1435-xor-queries-of-a-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1476,6 +1477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1435-xor-queries-of-a-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1675,6 +1677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1755-defuse-the-bomb) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
