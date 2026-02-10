@@ -1,30 +1,28 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        freq = defaultdict(int)
-        for char in t:
-            freq[char]+=1
-        
-        i,j = 0,0
-        ans = float('inf')
-        res = ""
-        count = len(t)
-        while j < len(s):
+        if len(t) > len(s):
+            return ""
+        freq = Counter(t)
+        size = len(freq)
+        ans = ""
+        min_len = float('inf')
+        i = 0
+        for j in range(len(s)):
             if s[j] in freq:
                 freq[s[j]]-=1
-                if freq[s[j]] >= 0:
-                    count-=1
-            
-            while count<=0:
-                if (j - i + 1) < ans:
-                    ans = j - i + 1
-                    res = s[i:j+1]
-                
+                if freq[s[j]]==0:
+                    size-=1
+
+            while size==0:
+                if min_len > (j-i+1):
+                    ans = s[i:j+1]
+                    min_len = j-i+1
+                    # print(ans)
                 if s[i] in freq:
                     freq[s[i]]+=1
                     if freq[s[i]]>0:
-                        count+=1 
+                        size+=1
                 i+=1
 
-            j+=1
-
-        return res
+        return ans    
+            
