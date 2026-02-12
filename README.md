@@ -680,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2401-longest-nice-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2401-longest-nice-subarray) |
 | [2402-meeting-rooms-iii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2402-meeting-rooms-iii) |
 | [2411-spiral-matrix-iv](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2411-spiral-matrix-iv) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -1583,6 +1584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2401-longest-nice-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2401-longest-nice-subarray) |
 | [2478-longest-nice-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2509-minimize-xor) |
@@ -1715,6 +1717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1695-maximum-erasure-value](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1695-maximum-erasure-value) |
 | [1755-defuse-the-bomb](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1755-defuse-the-bomb) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2401-longest-nice-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2401-longest-nice-subarray) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
