@@ -638,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1694-make-sum-divisible-by-p) |
+| [1695-maximum-erasure-value](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1695-maximum-erasure-value) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -800,6 +801,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1694-make-sum-divisible-by-p) |
+| [1695-maximum-erasure-value](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1695-maximum-erasure-value) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -1707,6 +1709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1695-maximum-erasure-value](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1695-maximum-erasure-value) |
 | [1755-defuse-the-bomb](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1755-defuse-the-bomb) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
