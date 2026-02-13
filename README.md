@@ -494,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0042-trapping-rain-water) |
@@ -887,6 +888,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
