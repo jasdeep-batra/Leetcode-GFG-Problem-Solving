@@ -686,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2183-minimum-operations-to-convert-number](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2183-minimum-operations-to-convert-number) |
+| [2187-minimum-time-to-complete-trips](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2187-minimum-time-to-complete-trips) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2262-solving-questions-with-brainpower](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2262-solving-questions-with-brainpower) |
@@ -937,6 +938,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2187-minimum-time-to-complete-trips](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2187-minimum-time-to-complete-trips) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
