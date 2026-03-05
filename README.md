@@ -665,6 +665,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1829-maximum-units-on-a-truck](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1829-maximum-units-on-a-truck) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1876-map-of-highest-peak](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -932,6 +933,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
