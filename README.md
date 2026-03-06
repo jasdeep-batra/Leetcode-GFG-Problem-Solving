@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0621-task-scheduler) |
@@ -554,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
@@ -916,6 +919,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0493-reverse-pairs) |
@@ -1338,6 +1342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0695-max-area-of-island) |
