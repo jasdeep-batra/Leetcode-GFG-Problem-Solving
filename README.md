@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1829-maximum-units-on-a-truck) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2379-maximum-total-importance-of-roads](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2379-maximum-total-importance-of-roads) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1829-maximum-units-on-a-truck](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1829-maximum-units-on-a-truck) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2379-maximum-total-importance-of-roads](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2379-maximum-total-importance-of-roads) |
@@ -684,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2067-maximum-number-of-points-with-cost](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2107-find-unique-binary-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2145-grid-game](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -945,6 +948,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2187-minimum-time-to-complete-trips) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
