@@ -939,6 +939,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1044-longest-duplicate-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1044-longest-duplicate-substring) |
 | [1208-get-equal-substrings-within-budget](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1208-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -1140,6 +1141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0952-word-subsets](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1044-longest-duplicate-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1044-longest-duplicate-substring) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1160-letter-tile-possibilities](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1160-letter-tile-possibilities) |
@@ -1696,6 +1698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0214-shortest-palindrome) |
+| [1044-longest-duplicate-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1044-longest-duplicate-substring) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
@@ -1709,6 +1712,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0214-shortest-palindrome) |
+| [1044-longest-duplicate-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1044-longest-duplicate-substring) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
@@ -1762,6 +1766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+| [1044-longest-duplicate-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1044-longest-duplicate-substring) |
 | [1208-get-equal-substrings-within-budget](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1208-get-equal-substrings-within-budget) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
@@ -1841,4 +1846,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/0743-network-delay-time) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/jasdeep-batra/Leetcode-GFG-Problem-Solving/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
